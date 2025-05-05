@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arn-site/static/css/main.f855e6bc.css",
+    "main.js": "/arn-site/static/js/main.8fce190f.js",
+    "static/js/453.9876738d.chunk.js": "/arn-site/static/js/453.9876738d.chunk.js",
+    "index.html": "/arn-site/index.html",
+    "main.f855e6bc.css.map": "/arn-site/static/css/main.f855e6bc.css.map",
+    "main.8fce190f.js.map": "/arn-site/static/js/main.8fce190f.js.map",
+    "453.9876738d.chunk.js.map": "/arn-site/static/js/453.9876738d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8fce190f.js"
+  ]
+}
