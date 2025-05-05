@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 453.98 302.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #f6c913;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #1b74ba;
+      }
+
+      .cls-7 {
+        fill: #ec3e02;
+      }
+
+      .cls-8 {
+        fill: #60d092;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.6" dy="3.6"/>
+      <feGaussianBlur result="blur" stdDeviation="1.44"/>
+      <feFlood flood-color="#000" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.6" dy="3.6"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.44"/>
+      <feFlood flood-color="#000" flood-opacity=".4"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <rect class="cls-2" x="268.65" y="20.02" width="166.59" height="261.51" rx="5.36" ry="5.36"/>
+      <line class="cls-3" x1="220.22" y1="139.07" x2="261.24" y2="139.07"/>
+      <circle class="cls-8" cx="242.17" cy="139.02" r="7.93"/>
+      <polygon class="cls-4" points="240.93 143.48 237.52 140.07 239.29 138.3 240.93 139.93 245.47 135.39 247.24 137.17 240.93 143.48"/>
+      <rect class="cls-4" x="310.55" y="118.29" width="82.78" height="5.76"/>
+      <rect class="cls-4" x="310.55" y="128.26" width="82.78" height="5.76"/>
+      <rect class="cls-4" x="310.55" y="157.08" width="82.78" height="5.76"/>
+      <rect class="cls-4" x="283.51" y="220.49" width="136.87" height="5.76"/>
+      <rect class="cls-4" x="283.51" y="236.56" width="136.87" height="5.76"/>
+      <rect class="cls-4" x="283.51" y="252.63" width="136.87" height="5.76"/>
+      <circle class="cls-6" cx="351.94" cy="73.67" r="31.26"/>
+      <circle class="cls-4" cx="351.94" cy="68.35" r="12.78"/>
+      <g>
+        <rect class="cls-4" x="287.21" y="172.77" width="37.24" height="33.7" rx="6.84" ry="6.84"/>
+        <rect class="cls-4" x="333.32" y="172.77" width="37.24" height="33.7" rx="6.84" ry="6.84"/>
+        <rect class="cls-4" x="379.43" y="172.77" width="37.24" height="33.7" rx="6.84" ry="6.84"/>
+      </g>
+      <rect class="cls-7" x="293.92" y="182.36" width="23.93" height="5.76"/>
+      <rect class="cls-7" x="293.92" y="191.67" width="23.93" height="5.76"/>
+      <rect class="cls-7" x="340.04" y="182.36" width="23.93" height="5.76"/>
+      <rect class="cls-7" x="340.04" y="191.67" width="23.93" height="5.76"/>
+      <rect class="cls-7" x="386.37" y="182.36" width="23.93" height="5.76"/>
+      <rect class="cls-7" x="386.37" y="191.67" width="23.93" height="5.76"/>
+      <path class="cls-4" d="M360.13,80.88h-16.44c-5.01,0-9.07,4.06-9.07,9.07v9.74c4.96,3.31,10.92,5.24,17.32,5.24s12.31-1.92,17.26-5.2v-9.78c0-5.01-4.06-9.07-9.07-9.07Z"/>
+      <polygon class="cls-1" points="266.35 139.02 259.57 133.86 259.57 144.17 266.35 139.02"/>
+      <rect class="cls-5" x="14.6" y="66.58" width="206.9" height="144.23" rx="5.36" ry="5.36"/>
+      <path class="cls-4" d="M107.09,152.05v-26.07c0-2.3,2.45-3.77,4.48-2.69l24.54,13.03c2.16,1.15,2.16,4.24,0,5.39l-24.54,13.03c-2.03,1.08-4.48-.39-4.48-2.69Z"/>
+    </g>
+  </g>
+</svg>
